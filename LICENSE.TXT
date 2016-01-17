@@ -1,7 +1,7 @@
 /*
  * T221_DLDVI_ADAPTER LICENSE
  * 
- * Copyright (C) 2015 cirthix@gmail.com
+ * Copyright (C) 2011 cirthix@gmail.com
  * 
  * This file is part of T221_DLDVI_ADAPTER.
  * 
