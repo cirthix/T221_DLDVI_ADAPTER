@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DLDVI_T221_ADAPTER.PcbDoc   1/16/2016  11:36:42 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DLDVI_T221_ADAPTER.TXT
+EIA File   : DLDVI_T221_ADAPTER.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             45        PTH        8.31inch (211.01mm)
+T2      22mil (0.559mm)                                           Round             120       PTH        7.57inch (192.33mm)
+T3      26mil (0.66mm)                                            Round             12        PTH        2.29inch (58.15mm)
+T4      30mil (0.762mm)                                           Round             48        PTH        5.36inch (136.20mm)
+T5      76mil (1.93mm)                                            Round             4         PTH        2.34inch (59.55mm)
+T6      85mil (2.159mm)                                           Round             4         PTH        2.80inch (71.23mm)
+T7      140mil (3.556mm)                                          Round             4         PTH        2.96inch (75.11mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              237
+
+Total Processing Time (hh:mm:ss) : 00:00:00
